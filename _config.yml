@@ -1,11 +1,10 @@
 # ----
 # Site
 
-title: MusicBot
-description: The documentation for the original MusicBot for Discord.
-url: "https://Just-Some-Bots.github.io/MusicBot"
+title: RoboMusicBot
+description: The documentation for the RoboMusicBot.
+url: "https://realrobotix.github.io/MusicBot"
 logo: 'images/logo.png'
-google_analytics_key: UA-61418431-2
 show_full_navigation: true
 
 timezone: Etc/UTC
